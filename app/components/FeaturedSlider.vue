@@ -42,27 +42,27 @@ const iphoneCards = [
   {
     title: "iPhone 15 Pro",
     description: "Titanium. So strong. So light. So Pro.",
-    image: "/images/1.png",
+    image: "images/1.png",
   },
   {
     title: "Dynamic Island",
     description: "Stay in the know. On the go.",
-    image: "/images/2.png",
+    image: "images/2.png",
   },
   {
     title: "Camera Power",
     description: "Capture incredible detail with the 48MP main camera.",
-    image: "/images/3.png",
+    image: "images/3.png",
   },
   {
     title: "A17 Pro chip",
     description: "The biggest leap in iPhone graphics performance.",
-    image: "/images/4.png",
+    image: "images/4.png",
   },
   {
     title: "USB‑C",
     description: "The universal connector.",
-    image: "/images/5.png",
+    image: "images/5.png",
   },
 ];
 </script>
